@@ -18,3 +18,16 @@ Maria db installed on db01 server and running.
 Memcache running on MC01 server.
 
 ![image](https://user-images.githubusercontent.com/117186369/205491522-309c58ef-4b21-4d54-bef3-9c33910ddf47.png)
+
+Install dependencies for RabbitMQ server.
+
+#sudo yum install wget -y
+#cd /tmp/
+#wget http://packages.erlang-solutions.com/erlang-solutions-2.0-1.noarch.rpm
+#sudo rpm -Uvh erlang-solutions-2.0-1.noarch.rpm
+#sudo yum -y install erlang socat
+
+Install and start rabbitMQ
+
+![image](https://user-images.githubusercontent.com/117186369/205492477-f623c8c5-26ea-4846-acb4-290a456af2bf.png)
+
