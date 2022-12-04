@@ -35,3 +35,7 @@ Install and start rabbitMQ
 
 ![image](https://user-images.githubusercontent.com/117186369/205492477-f623c8c5-26ea-4846-acb4-290a456af2bf.png)
 
+Install and setup tomcat on app01 server
+
+![image](https://user-images.githubusercontent.com/117186369/205497509-1037231c-18bf-4244-855a-e6bdbf0cc199.png)
+
