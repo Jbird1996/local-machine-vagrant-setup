@@ -55,6 +55,15 @@ ln -s /etc/nginx/sites-available/vproapp /etc/nginx/sites-enabled/vproapp
 
 ![image](https://user-images.githubusercontent.com/117186369/205499418-5803adb9-2cd7-4d2d-aa15-87d0191463fc.png)
 
+Get IP address of webserver.
+
+![image](https://user-images.githubusercontent.com/117186369/205499616-34c98a24-d696-4081-bfb3-9de9a699d31b.png)
+
+End result of project.
+
+![image](https://user-images.githubusercontent.com/117186369/205499587-4df2aa98-f50b-4562-857e-ac54decf5085.png)
+
+
 
 
  
