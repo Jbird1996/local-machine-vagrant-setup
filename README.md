@@ -39,3 +39,24 @@ Install and setup tomcat on app01 server
 
 ![image](https://user-images.githubusercontent.com/117186369/205497509-1037231c-18bf-4244-855a-e6bdbf0cc199.png)
 
+Install and setup nginx 
+
+Create a configuration file that will be used to redirect requests from nginx to tomcat server on port 8080.
+
+![image](https://user-images.githubusercontent.com/117186369/205498898-486dfa8a-38ed-47d4-bdab-59aa6366aabf.png)
+
+remove default website of nginx
+
+rm -rf /etc/nginx/sites-enabled/default
+
+create link of configuration file. 
+
+ln -s /etc/nginx/sites-available/vproapp /etc/nginx/sites-enabled/vproapp
+
+![image](https://user-images.githubusercontent.com/117186369/205499418-5803adb9-2cd7-4d2d-aa15-87d0191463fc.png)
+
+
+
+ 
+ 
+
