@@ -1,4 +1,4 @@
-#Setting up a web application using local VM's
+Setting up a web application using local VM's
 
 1) Nginx Webserver
 2) Tomcat Application server
