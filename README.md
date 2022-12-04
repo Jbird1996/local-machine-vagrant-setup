@@ -22,9 +22,13 @@ Memcache running on MC01 server.
 Install dependencies for RabbitMQ server.
 
 sudo yum install wget -y
+
 cd /tmp/
+
 wget http://packages.erlang-solutions.com/erlang-solutions-2.0-1.noarch.rpm
+
 sudo rpm -Uvh erlang-solutions-2.0-1.noarch.rpm
+
 sudo yum -y install erlang socat
 
 Install and start rabbitMQ
