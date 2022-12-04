@@ -14,3 +14,7 @@ Vagrant Up command to start up VM's
 Maria db installed on db01 server and running.
 
 ![image](https://user-images.githubusercontent.com/117186369/205489320-7606e91f-f252-4ef0-b39f-5b1ed3a88b5c.png)
+
+Memcache running on MC01 server.
+
+![image](https://user-images.githubusercontent.com/117186369/205491522-309c58ef-4b21-4d54-bef3-9c33910ddf47.png)
