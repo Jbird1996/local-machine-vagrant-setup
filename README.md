@@ -65,7 +65,28 @@ End result of project.
 
 ![image](https://user-images.githubusercontent.com/117186369/205499587-4df2aa98-f50b-4562-857e-ac54decf5085.png)
 
+## Automated vagrant file.
 
+db01 will execute a shell script which will set up my sql Service, initialize the database,
+take care of the firewall rule. 
+
+Next, we will be setting up memcache service, it's going to execute the script memcache.sh. 
+Then it will install memcache service and make sure it's up and running. 
+Next, we have a rabbit MQ service, so it's going to bring up our rmq01 and execute rabbitmq.sh shell script.
+
+Next service is app01
+
+execute the script tomcat.sh
+
+So first it installs the dependencies JDK.
+
+tomcat service with systemctl
+
+create the service file.
+
+once the Tomcat service is up and running.
+
+Cloning the source code.
 
 
  
