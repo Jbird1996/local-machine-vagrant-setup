@@ -72,6 +72,7 @@ take care of the firewall rule.
 
 Next, we will be setting up memcache service, it's going to execute the script memcache.sh. 
 Then it will install memcache service and make sure it's up and running. 
+
 Next, we have a rabbit MQ service, so it's going to bring up our rmq01 and execute rabbitmq.sh shell script.
 
 Next service is app01
@@ -87,6 +88,20 @@ create the service file.
 once the Tomcat service is up and running.
 
 Cloning the source code.
+
+build the source code 
+
+removing the default application of tomcat
+
+copying our artifact
+
+start the tomcat service.
+
+Lastly web01 nginx VM.
+
+apt update, install Nginx and create the vproapp file.
+
+
 
 
  
